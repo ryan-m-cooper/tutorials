@@ -1,15 +1,11 @@
 ---
 layout: default
-title: "CartoDB Workshops"
+title: "Tutorials &amp; Lessons by Ryan M Cooper"
 ---
 #### WELCOME!
 
-Check out the side bar for featured workshop scripts (at Beginner, Intermediate, Advanced, and Special Topics levels).
+In my time as a teaching assistant at UK, an organizer of maptimeLEX, and GIS Technician at the Georgetown-Scott County Planning Commission I've found myself in creating little lessons and tutorials on mapping and data for various people and groups. This site is meant to be a central repository of those tutorials. Certainly this is not a comprhensive source of tutorials, but I hope that if you're here, you find something that will help you get on the right track with your project.
 
-Review the [`img/`](https://github.com/CartoDB/training/tree/gh-pages/img) and [`data/`](https://github.com/CartoDB/training/tree/gh-pages/data), and [`templates/`](https://github.com/CartoDB/training/tree/gh-pages/templates) directories for support images, data hardcopies, and code templates referenced in workshops.
+If you have any questions or comments, please feel free to email me at ryancooper729 _at_ gmail _dot_ com.
 
-Below you'll find a map of the places we've traveled to give trainings! If you [submit materials](http://cartodb.github.io/training/submit.html) from your event, ping [Andy](mailto:eschbacher@cartodb.com) to add your event details to the map!
-
-<iframe width="100%" height="480px" src="workshops_map.html"></iframe>
-
-
+<!-- <iframe width="100%" height="480px" src="workshops_map.html"></iframe> -->

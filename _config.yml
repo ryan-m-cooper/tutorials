@@ -1,6 +1,6 @@
 # Site title and subtitle. This is used in _includes/header.html
-title: 'CartoDB Workshops'
-subtitle: 'Materials for Teaching Maps'
+title: 'Tuts &amp; Lessons'
+subtitle: 'Little guides to mappy things and data stuffs from Ryan M Cooper'
 
 # if you wish to integrate disqus on pages set your shortname here
 disqus_shortname: ''
@@ -12,21 +12,20 @@ disqus_shortname: ''
 navigation: 2
 
 # URL to source code, used in _includes/footer.html
-codeurl: 'https://github.com/cartodb/training'
+codeurl: 'https://github.com/ryan-m-cooper/tutorials'
 
 # Default categories (in order) to appear in the navigation
 sections: [
-    ['introductory', 'Introductory'],
-    ['intermediate', 'Intermediate'],
-    ['advanced', 'Advanced'],
-    ['special', 'Special'],
-    ['talk', 'Talks'],
-    ['video', 'Videos']
+    ['cartography', 'Cartography'],
+    ['data', 'Data'],
+    ['gis', 'GIS'],
+    ['webmaps', 'Webmaps'],
+    ['grab-bag', 'Grab Bag']
 ]
 
 # Keep as an empty string if served up at the root. If served up at a specific
 # path (e.g. on GitHub pages) leave off the trailing slash, e.g. /my-project
-baseurl: '/training'
+baseurl: '/tutorials'
 
 # Dates are not included in permalinks
 permalink: none
